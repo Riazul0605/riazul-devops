@@ -30,7 +30,7 @@ Open to collaborating on **open-source DevOps projects**.
 
 ### 🚀 Featured Projects
 - [Sql Server Always On Availability Group on Kubernetes](https://github.com/Riazul0605/Sql-Server-Always-On-Availability-Group-on-Kubernetes/)  
-- [Kubernetes Deployment Setup](https://github.com/yourusername/k8s-deployment)  
+- [Harbor Registry](https://github.com/Riazul0605/Harbor-Registry)  
 - [Terraform AWS Infrastructure](https://github.com/yourusername/terraform-aws)  
 
 ---
