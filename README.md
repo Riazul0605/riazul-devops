@@ -3,7 +3,9 @@
 **DevOps Engineer**
 
 **1.** More than 12 years hands-on work experience on LAMP & JAVA based Applications deployment and maintenance.
+
 **2.** Vast experience on Git, GitHub, GitLab, GitHub Actions, MySQL, MariaDB, MongoDB, SQL Server, Nginx, HA Proxy, Bash scripting, Ansible, Helm Chart, Redis, RabbitMQ, Apache Kafka, ELK Stack (Elasticsearch Cluster, APM etc.), EFK, AWS, Oracle Cloud, Nagios & LibreNMS, Prometheus, Grafana.
+
 **3.** Much experience on CI/CD Pipeline using Jenkins, Git, GitHub Actions, Docker, Docker Registry, Harbor Registry, Kubernetes, SonarQube & Microservice technology.
 Passionate about CI/CD, Cloud Infrastructure, and Kubernetes.  
 Currently working with Git, GitHub, CI/CD pipelines using Jenkins, GitHub Actions, Docker, Docker Registry, Harbor Registry, Kubernetes, Terraform, Redis, Apache Kafka, Spring Boot Microservice build and deployment with eureka server, SQL Server, EFK, ELK, Prometheus, Grafana, Helm Chart, Angular project, flutter APK build, Project code analysis with SonarQube etc.
@@ -31,7 +33,7 @@ Open to collaborating on **open-source DevOps projects**.
 ### 🚀 Featured Projects
 - [Sql Server Always On Availability Group on Kubernetes](https://github.com/Riazul0605/Sql-Server-Always-On-Availability-Group-on-Kubernetes/)  
 - [Harbor Registry](https://github.com/Riazul0605/Harbor-Registry)  
-- [Terraform AWS Infrastructure](https://github.com/yourusername/terraform-aws)  
+- [Jenkins deployment for changes only](https://github.com/Riazul0605/Deploy-builds-with-changelog-only-in-Jenkins)  
 
 ---
 
