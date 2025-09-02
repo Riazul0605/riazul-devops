@@ -29,7 +29,7 @@ Open to collaborating on **open-source DevOps projects**.
 ---
 
 ### 🚀 Featured Projects
-- [CI/CD Pipeline with Jenkins & Docker](https://github.com/yourusername/jenkins-docker-ci-cd)  
+- [CI/CD Pipeline with Jenkins & Docker](https://github.com/Riazul0605/Sql-Server-Always-On-Availability-Group-on-Kubernetes/)  
 - [Kubernetes Deployment Setup](https://github.com/yourusername/k8s-deployment)  
 - [Terraform AWS Infrastructure](https://github.com/yourusername/terraform-aws)  
 
