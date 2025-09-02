@@ -13,7 +13,7 @@ Learning GitHub Actions & Prometheus/Grafana.
 
 Passionate about **CI/CD, Cloud Infrastructure, Automation, and Monitoring**.  
 Currently working with **Git, GitHub, CI/CD pipelines using Jenkins, Docker, Docker Registry, Harbor Registry, Kubernetes, Terraform, Redis, Apache Kafka, Spring Boot Microservice build and deployment with eureka server, SQL Server, EFK, ELK, Helm Chart, Angular project, flutter APK build, Project code analysis with SonarQube etc.**
-Learning **GitHub Actions & Prometheus/Grafana**.  
+Learning **GitHub Actions, Redis Cluster, Apache Kafka Cluster, & Prometheus/Grafana**.  
 Open to collaborating on **open-source DevOps projects**. 
 
 ---
